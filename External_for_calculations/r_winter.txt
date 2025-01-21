@@ -1,0 +1,32 @@
+Manikin #3.6.35
+Time	15:19:00 03-11-2023
+
+Temperature	0.0
+
+#	Text	Rtotal
+M	Manikin	0.232
+A	Group A	0.000
+B	Group B	0.000
+1	L. Foot	0.253
+2	R. Foot	0.267
+3	L. Foreleg	0.188
+4	R. Foreleg	0.198
+5	L. front Thigh	0.224
+6	R. front Thigh	0.217
+25	L. Back Thigh	0.238
+26	R. Back thigh	0.223
+7	Pelvis	0.422
+27	Back side	0.241
+8	Head	0.156
+28	Schll	0.399
+9	L.  Hand	0.115
+10	R.  Hand	0.117
+11	L. Fore Arm	0.182
+12	R. Fore Arm	0.201
+13	L.  Upper arm	0.252
+14	R.  Upper arm	0.247
+15	Chest	0.275
+20	Low back	0.372
+16	Upper Back	0.336
+19	Stomach	0.314
+

@@ -1,0 +1,2 @@
+Date and Time; A:	\*MEASURE	       Q_POS	       Q_NEG	     T1	     T2	SSPEED	AMP	SCNR	
+Date and Time; B:	\*MEASURE	       Q_POS	       Q_NEG	     T3	     T4	SSPEED	AMP	SCNR	

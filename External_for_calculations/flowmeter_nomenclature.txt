@@ -1,0 +1,10 @@
+CH A: hot water in = in
+CH B: cold water out = in
+T1 / T3: cold OUT (cold in was wrong) / hot in (order is guessed from the data)
+T2 / T4: cold IN (cold out was wrong) / hot out (order is guessed from the data)
+
+Assumption after call with CAJ:
+
+	IN	OUT
+HOT	T3-A	T4
+COLD	T2	T1-B

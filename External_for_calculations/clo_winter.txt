@@ -1,0 +1,33 @@
+Manikin #3.4.51
+Clo-values	15:38:11 14-04-2022
+
+Temperature	23.5
+
+ID	Body part	R	clo
+
+M	Manikin		0.232	0.649
+A	Group A		0.000	0.000
+B	Group B		0.000	0.000
+1	L. Foot		0.253	0.940
+2	R. Foot		0.267	1.049
+3	L. Foreleg	0.188	0.492
+4	R. Foreleg	0.198	0.552
+5	L. front Thigh	0.224	0.553
+6	R. front Thigh	0.217	0.546
+25	L. Back Thigh	0.238	0.621
+26	R. Back thigh	0.223	0.613
+7	Pelvis		0.422	1.762
+27	Back side	0.241	0.746
+8	Head		0.156	0.082
+28	Schll		0.399	-0.184
+9	L.  Hand	0.115	-0.033
+10	R.  Hand	0.117	-0.001
+11	L. Fore Arm	0.182	0.407
+12	R. Fore Arm	0.201	0.554
+13	L.  Upper arm	0.252	0.834
+14	R.  Upper arm	0.247	0.836
+15	Chest		0.275	0.890
+20	Low back	0.372	1.532
+16	Upper Back	0.336	1.223
+19	Stomach		0.314	1.142
+
